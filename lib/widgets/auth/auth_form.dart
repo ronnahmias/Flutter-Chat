@@ -40,7 +40,7 @@ class _AuthFormState extends State<AuthForm> {
                   FlatButton(
                     textColor: Theme.of(context).primaryColor,
                     onPressed: () {},
-                    child: Text('הרשמה  '),
+                    child: Text('הרשמה'),
                   ),
                 ],
               ),
